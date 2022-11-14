@@ -1,0 +1,128 @@
+= Marktanalyse Prozessanalyse
+Hager Sebastian, Reiter Lydia, Thomas Spindler
+1.0, 2022-10-10
+ifndef::imagesdir[:imagesdir: images]
+ifndef::backend[:backend: html5]
+:icons: font
+
+== Go JS
+
+image::gojs-main.png[]
+
+=== Demos
+
+[cols="a,a", frame=none, grid=none]
+|===
+
+| image::gojs-project-1.png[]
+| image::gojs-project-2.png[]
+
+|===
+
+=== Vorteile
+
+* Guter support
+* Große Community
+* Der Standard für Webdiagramme
+* Gute Dokumentation
+* Bus-sicher
+
+=== Nachteile
+
+image::gojs-pricing.png[]
+
+== JointJS
+
+image::jointjs.png[]
+
+=== Vorteile
+
+* Sehr gute Dokumentation
+* Bus-sicher
+
+=== Nachteile
+
+[cols=".^a,a", frame=none, grid=none]
+|===
+
+| * Keine Animationen
+* Dadurch für das Projekt nicht geeignet
+* Teuer
+| image::jointjs-pricing.png[]
+
+|===
+
+== PixieJS
+
+image::pixiJS.png[]
+
+=== Demo
+
+.Drag and Drop Demo
+image::pixie-demo.png[]
+
+
+=== Vorteile
+
+* Sowohl 2 als auch 3D
+* Große Community
+* Kann extrem viel
+* Einfaches drag and drop
+* Ist Bus-sicher
+
+=== Nachteile
+
+* Hat zwar alle Funktionen, aber der Fokus liegt woanders
+* aufwendige Implementierung
+
+== Archilogic
+
+image::archilogic.png[]
+
+=== Demos
+
+image::archilogic-demo.png[]
+
+link:https://codesandbox.io/s/scroll-demo-6ne6t[demo-project]
+
+=== Vorteile
+
+* Einfaches erstellen von Raumplänen
+* 3D
+
+=== Nachteile
+
+[cols=".^a,a", frame=none, grid=none]
+|===
+|
+* Passt nicht zu 100% auf das Projekt
+* Unterstützung von Animationen sehr fraglich
+| image::archilogic-pricing.png[]
+|===
+
+== Anime JS
+
+image::anime.png[]
+
+=== Demos
+
+image::anime-demo.png[]
+
+=== Vorteile
+
+* Sehr einfache Animationen
+* Kostenlos
+
+
+=== Nachteile
+
+* Letzter Commit in den Code im Jahr 2018
+* Nicht Bus-sicher
+
+== Quellenangaben:
+
+* link:https://gojs.net/latest/[GoJS]
+* link:https://www.jointjs.com/[JointJS]
+* link:https://pixijs.com/[PixieJS]
+* link:https://www.archilogic.com/[Archilogic]
+* link:https://animejs.com/[Anime JS]
