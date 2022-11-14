@@ -1,0 +1,7 @@
+= german-presentation
+
+* date of presentation: 2022-11-15
+* team: Eder, Goldmann, Hager
+
+the presentation is about politics and media
+
