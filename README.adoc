@@ -3,5 +3,6 @@
 * date of presentation: 2022-11-15
 * team: Eder, Goldmann, Hager
 
-the presentation is about politics and media
+The presentation is about politics and media.
+You can click on the link for gh-pages and you can look up our asciidoc-presentation.
 
