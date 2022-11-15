@@ -1,0 +1,77 @@
+= Medien und Politik
+Eder Moritz, Goldmann Pascal, Hager Sebastian
+1.0, 2022-11-15
+ifndef::imagesdir[:imagesdir: images]
+ifndef::backend[:backend: html5]
+:icons: font
+
+== Übersicht
+
+* Medien in der Politik
+* Manipulation durch Medien
+
+== Medien in der Politik
+
+* Allgemein
+* Aufgaben
+* Werbung für Partei/Politiker*Innen
+
+=== Allgemein
+
+* wirken sich auf politische Meinung der Gesellschaft aus
+* freie Medien unverzichtbarer Bestandteil der Demokratie
+* Menschen verfügen über jede Information für Meinungsbildung
+* Medien verkörpern vierte Gewalt
+
+=== Aufgaben der Medien
+
+* Informationen beschaffen
+* auswählen und zusammenzustellen
+* falls erforderlich: kritisch zu kommentieren
+
+=== Werbung für Partei/Politiker*Innen
+
+* Bindungsglied zum Volk
+* Mediendemokratie spiegelt Spanne der Medien am Markt wider
+* 1960 erstes Mal Wahlkampf über Fernseher (John F. Kennedy)
+* Normalheit der Mediennutzung von Politiker*Inner
+
+[.notes]
+--
+* egal was immer wird gepostet(Katastrophe, Sportevent, usw.)
+* verwendet gegen Richard Nixon
+--
+
+//eder - goldmann
+== Manipulation durch Medien
+
+* Manipulation
+* Meinungsvertretung in Medien
+* parteiische Medien
+
+
+=== Manipulation
+
+* Zeitung, Fernsehen, Internet erreichen großes Publikum
+* Massenmedien sind manipulativ
+* Staatlich gelenkte Medien
+* in Kriegszeiten ist gezielte Verbreitung bestimmter Information Merkmal der Propaganda
+* beeinflusst damit Entscheidungen
+
+=== Meinungsvertretung in Medien
+
+* Träger*Inner der eigenen Meinung bei Talkshows, Interviews, usw.
+* Beeinflussung der Gesellschaft durch Fachartikel, Lesebriefe, Blogs, usw.
+
+=== parteiische Medien
+
+* „Wer die Medien macht, macht auch die Zeitung!“
+* Medienkonzentration
+* Fakten ganz bewusst einseitig darstellen
+* Blattlinie der Zeitung
+* Ausrichtung eines Senders
+
+== Danke für Ihre Aufmerksamkeit
+
+
+
