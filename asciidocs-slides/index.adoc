@@ -1,128 +1,77 @@
-= Marktanalyse Prozessanalyse
-Hager Sebastian, Reiter Lydia, Thomas Spindler
-1.0, 2022-10-10
+= Medien und Politik
+Eder Moritz, Goldmann Pascal, Hager Sebastian
+1.0, 2022-11-15
 ifndef::imagesdir[:imagesdir: images]
 ifndef::backend[:backend: html5]
 :icons: font
 
-== Go JS
+== Übersicht
 
-image::gojs-main.png[]
+* Medien in der Politik
+* Manipulation durch Medien
 
-=== Demos
+== Medien in der Politik
 
-[cols="a,a", frame=none, grid=none]
-|===
+* Allgemein
+* Aufgaben
+* Werbung für Partei/Politiker*Innen
 
-| image::gojs-project-1.png[]
-| image::gojs-project-2.png[]
+=== Allgemein
 
-|===
+* wirken sich auf politische Meinung der Gesellschaft aus
+* freie Medien unverzichtbarer Bestandteil der Demokratie
+* Menschen verfügen über jede Information für Meinungsbildung
+* Medien verkörpern vierte Gewalt
 
-=== Vorteile
+=== Aufgaben der Medien
 
-* Guter support
-* Große Community
-* Der Standard für Webdiagramme
-* Gute Dokumentation
-* Bus-sicher
+* Informationen beschaffen
+* auswählen und zusammenzustellen
+* falls erforderlich: kritisch zu kommentieren
 
-=== Nachteile
+=== Werbung für Partei/Politiker*Innen
 
-image::gojs-pricing.png[]
+* Bindungsglied zum Volk
+* Mediendemokratie spiegelt Spanne der Medien am Markt wider
+* 1960 erstes Mal Wahlkampf über Fernseher (John F. Kennedy)
+* Normalheit der Mediennutzung von Politiker*Inner
 
-== JointJS
+[.notes]
+--
+* egal was immer wird gepostet(Katastrophe, Sportevent, usw.)
+* verwendet gegen Richard Nixon
+--
 
-image::jointjs.png[]
+//eder - goldmann
+== Manipulation durch Medien
 
-=== Vorteile
-
-* Sehr gute Dokumentation
-* Bus-sicher
-
-=== Nachteile
-
-[cols=".^a,a", frame=none, grid=none]
-|===
-
-| * Keine Animationen
-* Dadurch für das Projekt nicht geeignet
-* Teuer
-| image::jointjs-pricing.png[]
-
-|===
-
-== PixieJS
-
-image::pixiJS.png[]
-
-=== Demo
-
-.Drag and Drop Demo
-image::pixie-demo.png[]
+* Manipulation
+* Meinungsvertretung in Medien
+* parteiische Medien
 
 
-=== Vorteile
+=== Manipulation
 
-* Sowohl 2 als auch 3D
-* Große Community
-* Kann extrem viel
-* Einfaches drag and drop
-* Ist Bus-sicher
+* Zeitung, Fernsehen, Internet erreichen großes Publikum
+* Massenmedien sind manipulativ
+* Staatlich gelenkte Medien
+* in Kriegszeiten ist gezielte Verbreitung bestimmter Information Merkmal der Propaganda
+* beeinflusst damit Entscheidungen
 
-=== Nachteile
+=== Meinungsvertretung in Medien
 
-* Hat zwar alle Funktionen, aber der Fokus liegt woanders
-* aufwendige Implementierung
+* Träger*Inner der eigenen Meinung bei Talkshows, Interviews, usw.
+* Beeinflussung der Gesellschaft durch Fachartikel, Lesebriefe, Blogs, usw.
 
-== Archilogic
+=== parteiische Medien
 
-image::archilogic.png[]
+* „Wer die Medien macht, macht auch die Zeitung!“
+* Medienkonzentration
+* Fakten ganz bewusst einseitig darstellen
+* Blattlinie der Zeitung
+* Ausrichtung eines Senders
 
-=== Demos
-
-image::archilogic-demo.png[]
-
-link:https://codesandbox.io/s/scroll-demo-6ne6t[demo-project]
-
-=== Vorteile
-
-* Einfaches erstellen von Raumplänen
-* 3D
-
-=== Nachteile
-
-[cols=".^a,a", frame=none, grid=none]
-|===
-|
-* Passt nicht zu 100% auf das Projekt
-* Unterstützung von Animationen sehr fraglich
-| image::archilogic-pricing.png[]
-|===
-
-== Anime JS
-
-image::anime.png[]
-
-=== Demos
-
-image::anime-demo.png[]
-
-=== Vorteile
-
-* Sehr einfache Animationen
-* Kostenlos
+== Danke für Ihre Aufmerksamkeit
 
 
-=== Nachteile
 
-* Letzter Commit in den Code im Jahr 2018
-* Nicht Bus-sicher
-
-== Quellenangaben:
-
-* link:https://gojs.net/latest/[GoJS]
-* link:https://www.jointjs.com/[JointJS]
-* link:https://pixijs.com/[PixieJS]
-* link:https://www.archilogic.com/[Archilogic]
-* link:https://animejs.com/[Anime JS]
